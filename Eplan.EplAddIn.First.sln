@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eplan.EplAddIn.First", "Eplan.EplAddIn.First.csproj", "{743EE92B-7E1D-4AE2-8CF3-C5CA0C76C7D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{743EE92B-7E1D-4AE2-8CF3-C5CA0C76C7D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743EE92B-7E1D-4AE2-8CF3-C5CA0C76C7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743EE92B-7E1D-4AE2-8CF3-C5CA0C76C7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743EE92B-7E1D-4AE2-8CF3-C5CA0C76C7D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F2412BD-A1A5-4F2D-81D9-80689A9407EB}
+	EndGlobalSection
+EndGlobal
